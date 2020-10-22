@@ -1,0 +1,22 @@
+name: student_project
+
+channels:
+- defaults
+- conda-forge
+
+dependencies:
+- numpy
+- pandas
+- jupyterlab
+- matplotlib
+- seaborn
+- scipy
+- statsmodels
+- pip
+- patsy
+- xlrd
+
+- pip:
+  - arch
+  
+
