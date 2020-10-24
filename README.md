@@ -6,7 +6,7 @@ This project aim to establish the connection between the research issue and the 
 
 Please use the following badges to view my notebook:
 
-<a href="https://nbviewer.jupyter.org/github/HumanCapitalAnalysis/microeconometrics-course-project-PoTseCheng/blob/master/Final_project.ipynb"
+<a href="https://nbviewer.jupyter.org/github/PoTseCheng/Microeconometrics/blob/master/Final_project.ipynb"
    target="_parent">
    <img align="center"
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"
